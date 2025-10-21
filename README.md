@@ -1,2 +1,2 @@
 # coll
-o
+ok
